@@ -12,7 +12,7 @@ CREATE TABLE Information (
 INSERT INTO Information VALUES(
     'Jatin',
     'Vishwakarma',
-    'Data Analysist',
+    'Data Analyst',
     'Bikaner,Rajasthan',
     'Learning - SQL,Python')
 ``` 
