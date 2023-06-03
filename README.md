@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Vishwakarma</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
- <br/>
+
 ``` javascript 
 CREATE TABLE Information (
     First_Name VARCHAR2(10) PRIMARY KEY,
