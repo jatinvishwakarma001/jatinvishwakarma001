@@ -26,7 +26,7 @@ INSERT INTO Information VALUES(
 
 -  🔭 I’m currently working on **Analysis IPL 2008-16 Dataset**
 
-> ⚡ Fun fact I ** support RCB ** <img align="center" src="https://cdn.worldvectorlogo.com/logos/royal-challengers-bangalore-2020.svg" alt="jatinvishwakarma" height="40" width="40" />
+> ⚡ Fun fact I **support RCB** 
 
 
 
