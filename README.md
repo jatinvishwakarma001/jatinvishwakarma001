@@ -14,13 +14,13 @@ INSERT INTO Information VALUES(
     'Vishwakarma',
     'Data Analyst',
     'Bikaner,Rajasthan',
-    'Learning - SQL,Python')
+    'Learning - SQL,Python,C++')
 ``` 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvishwakarma001&label=Profile%20views&color=0e75b6&style=flat" alt="jatinvishwakarma001" /> </p>
 
-- 🌱 I’m currently learning **SQL, Python, HTML5, CSS**
+- 🌱 I’m currently learning **SQL, Python, HTML5, CSS, C++**
 
 - 📫 How to reach me **jatinvishwakarma2022@gmail.com**
 
@@ -40,7 +40,8 @@ INSERT INTO Information VALUES(
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  <a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="powerBI" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" ><img  src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++" width="40" height="40"/></a>
 </p>
 
 
