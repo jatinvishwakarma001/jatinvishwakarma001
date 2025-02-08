@@ -6,7 +6,7 @@
 #include <iostream>
 
 int main() {
-    // Displaying the introduction
+    // Displaying the introduction using C++
     std::cout << "----------------------------------\n";
     std::cout << "        My Short Introduction     \n";
     std::cout << "----------------------------------\n";
@@ -25,7 +25,8 @@ int main() {
         My Short Introduction     
 ----------------------------------
 Name       : Jatin Vishwakarma
-LinkedIn   : linkedin.com/in/yourprofile
+LinkedIn   : www.linkedin.com/in/jatinvishwakarma001
+X          : https://x.com/Imjatin_tweets
 Profession : Mathematics Student & Mathematics Teacher
 Passionate about teaching and helping students understand complex concepts.
 ----------------------------------
