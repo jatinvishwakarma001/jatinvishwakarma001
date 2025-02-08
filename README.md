@@ -1,26 +1,39 @@
 <h1 align="center">Hi 👋, I'm Jatin Vishwakarma  <img src ="https://cdn.pixabay.com/animation/2022/12/11/04/11/04-11-18-929_512.gif" width = "35" </h1>
-<h3 align="center">An aspiring Data Analyst</h3>
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Github" width="375" align="Right" display ="flex"> 
+<h3 align="center">An aspiring Mathematics Teacher</h3>
 
-``` SQL
-CREATE TABLE Information (
-    First_Name VARCHAR2(10) PRIMARY KEY,
-    Last_Name  VARCHAR2(20),
-    Tite CHAR(20),
-    Location VARCHAR2(30),
-    Status TEXT ) 
-INSERT INTO Information VALUES(
-    'Jatin',
-    'Vishwakarma',
-    'Data Analyst',
-    'Bikaner,Rajasthan',
-    'Learning - SQL,Python,C++')
+
+``` cpp
+#include <iostream>
+
+int main() {
+    // Displaying the introduction
+    std::cout << "----------------------------------\n";
+    std::cout << "        My Short Introduction     \n";
+    std::cout << "----------------------------------\n";
+    std::cout << "Name       : Jatin Vishwakarma\n";
+    std::cout << "LinkedIn   : www.linkedin.com/in/jatinvishwakarma001\n";
+    std::cout << "X          : https://x.com/Imjatin_tweets\n";
+    std::cout << "Profession : Mathematics Student & Mathematics Teacher\n";
+    std::cout << "Passionate about teaching and helping students understand complex concepts.\n";
+    std::cout << "----------------------------------\n";
+
+    return 0;
+}
+``` 
+```cpp
+----------------------------------
+        My Short Introduction     
+----------------------------------
+Name       : Jatin Vishwakarma
+LinkedIn   : linkedin.com/in/yourprofile
+Profession : Mathematics Student & Mathematics Teacher
+Passionate about teaching and helping students understand complex concepts.
+----------------------------------
+
 ``` 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinvishwakarma001&label=Profile%20views&color=0e75b6&style=flat" alt="jatinvishwakarma001" /> </p>
-
-- 🌱 I’m currently learning **SQL, Python, HTML5, CSS, C++**
+- 🌱 I’m currently learning **Mathematics**
 
 - 📫 How to reach me **jatinvishwakarma2022@gmail.com**
 
